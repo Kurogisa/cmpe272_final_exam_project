@@ -1,0 +1,4 @@
+# CMPE 272 secure file transfer — pinned for reproducible grading environments.
+# All crypto via the cryptography library + CPython ssl/hashlib/hmac.
+
+cryptography>=42.0.0,<45.0.0
